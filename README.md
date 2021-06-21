@@ -10,3 +10,10 @@ In this challenge we will use airborne infrared linescan supplied by Forest Fire
 • Download the Welcome Booklet from: https://rebrand.ly/EY-welcome-booklet
 
 • Access the Github repository with the data here: https://github.com/EY-Data-Science-Program/2021-Better-Working-World-Data-Challenge/wiki
+
+## Data Description
+The dataset comprises 134 linescan images of bushfires in Victoria, Australia, taken by airplane during the first three months of 2019. The train.csv contains a list of 129 of the available linescan images and the time at which they were captured. The remaining 5 linescan images are used for testing.
+
+The test.csv contains a list of 5000 coordinate pairs (1000 from each of the five test images), where we have to identify whether each coordinate pair was on fire or not on fire in the given linescan image.
+
+There are also ground truth polygons (annotations) showing where the fire is in many of the training images, which have been hand-drawn by our collaborators at the Country Fire Authority (CFA).
