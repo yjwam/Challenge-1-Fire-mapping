@@ -1,5 +1,7 @@
 # Fire Mapping
 
+Fire mapping from airborne imagery
+
 ## Description
 
 The Better Working World Data Challenge is one of the ways we live our purpose at EY. The Challenge will contribute to our ambition to positively affect the lives of 1 billion people in our communities by 2030 and create long-term value. With our global breadth and depth and industry alliances, EY is uniquely positioned to bring together world-class organizations with students and young professionals to help solve society’s biggest challenges.
